@@ -14,8 +14,6 @@ James A Willis
 
 Thomas R Raffel: raffel@oakland.edu
 
-#### Contributions:
-
 >Conceptualization: TRR & JPS. Methodology: TRR & JPS. Analysis: JPS & TRR. 3D modeling: JPS. Arduino development: JPS. Construction: JPS, JAW, MSH. Data collection: JPS, JAW, & MSH. Animal maintenance: JPS, JAW, & MSH.
 
 ### Issues and suggestions
