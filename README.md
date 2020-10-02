@@ -28,6 +28,6 @@ Please email jason.sckrabulis@gmail.com with any issues or suggestions, or submi
 
 ### Repository contents
 
-* README.md 
-* imgs 
-   Folder of images used throughout the repository
+* README.md  
+* imgs  
+   Folder of images used in README.md
