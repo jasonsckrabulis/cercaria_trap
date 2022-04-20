@@ -22,7 +22,7 @@ Please email jason.sckrabulis@gmail.com with any issues or suggestions, or submi
 
 ### Change log
 
-* April 18, 2022: Uploaded statistical code (as .R files) in `/code` and data in `/data`
+* April 18, 2022: Uploaded Arduino code
 * October 2, 2020: First full commit
 
 ### Citation
