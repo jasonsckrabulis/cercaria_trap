@@ -35,5 +35,7 @@ This work is currently published within my Ph.D. dissertation:
 ### Repository contents
 
 * README.md  
+* code  
+   * `CercariaTrap.ino`
 * imgs  
    Folder of images used in README.md
