@@ -1,4 +1,4 @@
-## Optimizing an artificial skin analog to maximize penetration by _Schistosoma mansoni_ cercariae
+## Optimizing an artificial skin analog to maximize penetration by *Schistosoma mansoni* cercariae
 
 Ongoing project to develop and optimize an artificial skin substitute to maximize cercaria penetration, minimize cercaria mortality, and enable replicated experimentation without the use of expensive, technical, or live solutions.
 
@@ -22,7 +22,13 @@ Please email jason.sckrabulis@gmail.com with any issues or suggestions, or submi
 
 ### Change log
 
+* April 18, 2022: Uploaded statistical code (as .R files) in `/code` and data in `/data`
 * October 2, 2020: First full commit
+
+### Citation
+
+This work is currently published within my Ph.D. dissertation:
+>Sckrabulis, J. P. 2020. Environmental predictors of snail-borne parasitism (Order No. 28155561). Available from Dissertations & Theses @ Oakland University; ProQuest Dissertations & Theses Global. (2479810303).
 
 ---
 
