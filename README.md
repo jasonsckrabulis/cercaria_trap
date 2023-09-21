@@ -34,7 +34,8 @@ This work is currently published within my Ph.D. dissertation:
 
 ### Repository contents
 
-* README.md  
+* README.md
+* LICENSE.txt  
 * code  
    * `CercariaTrap.ino`
 * imgs  
